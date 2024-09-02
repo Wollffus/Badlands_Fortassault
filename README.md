@@ -12,7 +12,15 @@ Hold on to the fort, stand your ground and you will be rewarded.
 - Configuration for zones
 - Configuration for times and waves
 
+```lua
 |Requirements |redemrp_progressbars, redemrp_notification,redemrp_inventory|
+|---|---|
+|Subscription based |No|
+|Code accessible |No|
+|Lines (approximately) |310|
+|Support |(discord.gg/zGVDppYxfk)
+|
+```
 
 # How to install
 - unzip the folder
